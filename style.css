@@ -1,0 +1,38 @@
+
+.container{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+}
+button{
+    display: none;
+}
+input{
+    border-radius: 25px;
+    width: 400px;
+    height: 28px;
+    padding-left: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 0px solid white;
+   
+}
+h1{
+    font-size: 50px;
+    color: #568DE5;
+}
+.fa-search{
+    position: relative;
+    left: 400px;
+}
+
+.bigcontainer{
+    background-color: rgb(143 177 232);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.google-icons{
+    height: 80px;
+}
